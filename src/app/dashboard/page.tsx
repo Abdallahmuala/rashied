@@ -57,7 +57,7 @@ const casesList = [
 const stats = [
   { 
     title: "إجمالي القضايا", 
-    value: "12", 
+    value: "3", 
     icon: Briefcase, 
     gradient: "from-blue-500 to-blue-600",
     shadow: "shadow-blue-500/30",
@@ -65,23 +65,23 @@ const stats = [
   },
   { 
     title: "مكتملة الأركان", 
-    value: "8", 
+    value: "1", 
     icon: CheckCircle2, 
     gradient: "from-[#009B72] to-[#007A5A]",
     shadow: "shadow-[#009B72]/30",
     bgAccent: "bg-[#009B72]"
   },
   { 
-    title: "تنتظر مستندات", 
-    value: "3", 
+    title: "تحت الإجراء", 
+    value: "2", 
     icon: AlertTriangle, 
     gradient: "from-amber-400 to-amber-500",
     shadow: "shadow-amber-500/30",
     bgAccent: "bg-amber-500"
   },
   { 
-    title: "نسبة النجاح الشكلي", 
-    value: "94%", 
+    title: "نسبة القضايا المطابقةوالناجحة", 
+    value: "87%", 
     icon: TrendingUp, 
     gradient: "from-purple-500 to-indigo-600",
     shadow: "shadow-purple-500/30",
